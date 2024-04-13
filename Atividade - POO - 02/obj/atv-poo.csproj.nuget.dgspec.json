@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diegu\\OneDrive\\Documentos\\GitHub\\Atividades-POO\\Atividade - POO - 03\\atv-poo3\\poo.csproj": {}
+    "C:\\Users\\diegu\\OneDrive\\Documentos\\poo\\atv-poo\\atv-poo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diegu\\OneDrive\\Documentos\\GitHub\\Atividades-POO\\Atividade - POO - 03\\atv-poo3\\poo.csproj": {
+    "C:\\Users\\diegu\\OneDrive\\Documentos\\poo\\atv-poo\\atv-poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diegu\\OneDrive\\Documentos\\GitHub\\Atividades-POO\\Atividade - POO - 03\\atv-poo3\\poo.csproj",
-        "projectName": "poo",
-        "projectPath": "C:\\Users\\diegu\\OneDrive\\Documentos\\GitHub\\Atividades-POO\\Atividade - POO - 03\\atv-poo3\\poo.csproj",
+        "projectUniqueName": "C:\\Users\\diegu\\OneDrive\\Documentos\\poo\\atv-poo\\atv-poo.csproj",
+        "projectName": "atv-poo",
+        "projectPath": "C:\\Users\\diegu\\OneDrive\\Documentos\\poo\\atv-poo\\atv-poo.csproj",
         "packagesPath": "C:\\Users\\diegu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diegu\\OneDrive\\Documentos\\GitHub\\Atividades-POO\\Atividade - POO - 03\\atv-poo3\\obj\\",
+        "outputPath": "C:\\Users\\diegu\\OneDrive\\Documentos\\poo\\atv-poo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diegu\\AppData\\Roaming\\NuGet\\NuGet.Config"

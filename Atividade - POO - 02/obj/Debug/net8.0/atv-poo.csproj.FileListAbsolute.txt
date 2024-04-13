@@ -1,0 +1,14 @@
+C:\Users\diegu\OneDrive\Documentos\poo\atv-poo\bin\Debug\net8.0\atv-poo.exe
+C:\Users\diegu\OneDrive\Documentos\poo\atv-poo\bin\Debug\net8.0\atv-poo.deps.json
+C:\Users\diegu\OneDrive\Documentos\poo\atv-poo\bin\Debug\net8.0\atv-poo.runtimeconfig.json
+C:\Users\diegu\OneDrive\Documentos\poo\atv-poo\bin\Debug\net8.0\atv-poo.dll
+C:\Users\diegu\OneDrive\Documentos\poo\atv-poo\bin\Debug\net8.0\atv-poo.pdb
+C:\Users\diegu\OneDrive\Documentos\poo\atv-poo\obj\Debug\net8.0\atv-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegu\OneDrive\Documentos\poo\atv-poo\obj\Debug\net8.0\atv-poo.AssemblyInfoInputs.cache
+C:\Users\diegu\OneDrive\Documentos\poo\atv-poo\obj\Debug\net8.0\atv-poo.AssemblyInfo.cs
+C:\Users\diegu\OneDrive\Documentos\poo\atv-poo\obj\Debug\net8.0\atv-poo.csproj.CoreCompileInputs.cache
+C:\Users\diegu\OneDrive\Documentos\poo\atv-poo\obj\Debug\net8.0\atv-poo.dll
+C:\Users\diegu\OneDrive\Documentos\poo\atv-poo\obj\Debug\net8.0\refint\atv-poo.dll
+C:\Users\diegu\OneDrive\Documentos\poo\atv-poo\obj\Debug\net8.0\atv-poo.pdb
+C:\Users\diegu\OneDrive\Documentos\poo\atv-poo\obj\Debug\net8.0\atv-poo.genruntimeconfig.cache
+C:\Users\diegu\OneDrive\Documentos\poo\atv-poo\obj\Debug\net8.0\ref\atv-poo.dll
