@@ -62,9 +62,33 @@ namespace atv_poo3
     public class Produto
     {
         public string Codigo { get; } 
-        public string Nome { get; set; }
-        public double Preco { get; set; }
+        public string _nome = "";
+        public double _preco { get; set; }
         public static int _contador { get; set; }
+
+        public string Nome
+        {
+            get { return _nome; }
+            set
+            {
+                if (!string.IsNullOrEmpty(value))
+                    _nome = value;
+                else
+                    throw new ArgumentException("Nome do produto não pode ser vazio.");
+            }
+        }
+
+        public double Preco
+        {
+            get { return _preco; }
+            set
+            {
+                if (value >= 0)
+                    _preco = value;
+                else
+                    throw new ArgumentException("Preço do produto deve ser um valor não negativo.");
+            }
+        }
 
 
         public Produto(string nome, double preco)
