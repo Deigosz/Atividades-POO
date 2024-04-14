@@ -1,0 +1,15 @@
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\obj\Debug\net8.0\Atividade - POO - 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\obj\Debug\net8.0\Atividade - POO - 04.AssemblyInfoInputs.cache
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\obj\Debug\net8.0\Atividade - POO - 04.AssemblyInfo.cs
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\obj\Debug\net8.0\Atividade - POO - 04.csproj.CoreCompileInputs.cache
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\obj\Debug\net8.0\Atividade - POO - 04.sourcelink.json
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\bin\Debug\net8.0\Atividade - POO - 04.exe
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\bin\Debug\net8.0\Atividade - POO - 04.deps.json
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\bin\Debug\net8.0\Atividade - POO - 04.runtimeconfig.json
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\bin\Debug\net8.0\Atividade - POO - 04.dll
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\bin\Debug\net8.0\Atividade - POO - 04.pdb
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\obj\Debug\net8.0\Atividade - POO - 04.dll
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\obj\Debug\net8.0\refint\Atividade - POO - 04.dll
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\obj\Debug\net8.0\Atividade - POO - 04.pdb
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\obj\Debug\net8.0\Atividade - POO - 04.genruntimeconfig.cache
+C:\Users\diegu\OneDrive\Documentos\GitHub\Atividades-POO\Atividade - POO - 04\obj\Debug\net8.0\ref\Atividade - POO - 04.dll
