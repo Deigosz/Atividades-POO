@@ -1,4 +1,4 @@
-﻿using atv_poo3;
+using atv_poo3;
 
 
 Produto v1 = new Produto("Tv 60", 5400);
@@ -28,3 +28,15 @@ venda1.MostrarDetalhes();
 Console.WriteLine("Comissão do Vendedor Sobre Operação:");
 vendedor1.Mostrar_Atributos();
 Console.WriteLine($"\n\nSaldo atual do comprador {comprador1.Nome} após a compra: R${comprador1.Verba}.\n");
+
+
+// Tratativa na classe produto
+
+// Produto v4 = new Produto("", 5400);
+// Console.WriteLine("\nProdutos:\n");
+// v4.Mostrar_Atributos();
+
+
+// Produto v5 = new Produto("teste", -0.5);
+// Console.WriteLine("\nProdutos:\n");
+// v5.Mostrar_Atributos();
