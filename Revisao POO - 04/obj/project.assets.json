@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diegu\\OneDrive\\Documentos\\GitHub\\Atividades-POO\\Atividades-POO.csproj",
-      "projectName": "Atividades-POO",
-      "projectPath": "C:\\Users\\diegu\\OneDrive\\Documentos\\GitHub\\Atividades-POO\\Atividades-POO.csproj",
+      "projectUniqueName": "C:\\Users\\diegu\\OneDrive\\Documentos\\GitHub\\Atividades-POO\\Revisao POO - 04\\Revisao POO - 04.csproj",
+      "projectName": "Revisao POO - 04",
+      "projectPath": "C:\\Users\\diegu\\OneDrive\\Documentos\\GitHub\\Atividades-POO\\Revisao POO - 04\\Revisao POO - 04.csproj",
       "packagesPath": "C:\\Users\\diegu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diegu\\OneDrive\\Documentos\\GitHub\\Atividades-POO\\obj\\",
+      "outputPath": "C:\\Users\\diegu\\OneDrive\\Documentos\\GitHub\\Atividades-POO\\Revisao POO - 04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diegu\\AppData\\Roaming\\NuGet\\NuGet.Config"
